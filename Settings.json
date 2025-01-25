@@ -4,5 +4,6 @@
   "get_file": false,
   "get_fileType": ".xml",
   "webhook": null,
-  "string_fileName": null
+  "string_fileName": null,
+  "stop": false
 }
